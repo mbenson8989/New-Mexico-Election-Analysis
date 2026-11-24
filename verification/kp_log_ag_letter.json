@@ -1,0 +1,15 @@
+{
+"file": "letters/ag/New_Mexico_Attorney_General_Letter.md",
+"entries": [
+[
+"n_votes_rose",
+"int",
+"28"
+],
+[
+"n_reg_fell",
+"int",
+"29"
+]
+]
+}

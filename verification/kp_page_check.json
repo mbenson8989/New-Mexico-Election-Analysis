@@ -1,0 +1,8 @@
+{
+ "string_checks": 2597,
+ "presence_checks": 2522,
+ "use_checks": 792,
+ "errors": [],
+ "coverage_scanned": 1610,
+ "coverage_unlogged": []
+}

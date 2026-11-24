@@ -1,0 +1,132 @@
+{
+ "images": 11,
+ "county_cards": 3,
+ "surge_cards": 7,
+ "surges": [
+  {
+   "rank": 4,
+   "county": "Bernalillo",
+   "dem_gain": 15155,
+   "rep_change": -6044
+  },
+  {
+   "rank": 5,
+   "county": "Dona Ana",
+   "dem_gain": 10501,
+   "rep_change": 923
+  },
+  {
+   "rank": 6,
+   "county": "Sandoval",
+   "dem_gain": 2769,
+   "rep_change": 2185
+  },
+  {
+   "rank": 7,
+   "county": "San Juan",
+   "dem_gain": 2222,
+   "rep_change": -1988
+  },
+  {
+   "rank": 8,
+   "county": "Valencia",
+   "dem_gain": 2112,
+   "rep_change": -836
+  },
+  {
+   "rank": 9,
+   "county": "Santa Fe",
+   "dem_gain": 2031,
+   "rep_change": -263
+  },
+  {
+   "rank": 10,
+   "county": "Otero",
+   "dem_gain": 1879,
+   "rep_change": -886
+  }
+ ],
+ "flip_counties": 3,
+ "dem_drop_counties": 5,
+ "excluded_dem_drop_not_flip": [
+  "Guadalupe",
+  "Harding"
+ ],
+ "dem_rose_counties": 28,
+ "statewide_dem_change": 46204,
+ "numbers_checked_pass1": 228,
+ "numbers_checked_pass2": 228,
+ "total_checks": 456,
+ "matched": 456,
+ "resources_md_cells_checked": 182,
+ "mismatches": [],
+ "per_image": [
+  {
+   "file": "01-san-miguel.png",
+   "numbers_on_image": 21
+  },
+  {
+   "file": "02-mora.png",
+   "numbers_on_image": 21
+  },
+  {
+   "file": "03-rio-arriba.png",
+   "numbers_on_image": 21
+  },
+  {
+   "file": "04-bernalillo.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "05-dona-ana.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "06-sandoval.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "07-san-juan.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "08-valencia.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "09-santa-fe.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "10-otero.png",
+   "numbers_on_image": 18
+  },
+  {
+   "file": "00-summary.png",
+   "numbers_on_image": 39
+  }
+ ],
+ "ranking": [
+  {
+   "rank": 1,
+   "county": "San Miguel",
+   "dem_drop": 485,
+   "rep_gain": 193,
+   "flip_magnitude": 678
+  },
+  {
+   "rank": 2,
+   "county": "Mora",
+   "dem_drop": 277,
+   "rep_gain": 60,
+   "flip_magnitude": 337
+  },
+  {
+   "rank": 3,
+   "county": "Rio Arriba",
+   "dem_drop": 242,
+   "rep_gain": 93,
+   "flip_magnitude": 335
+  }
+ ]
+}

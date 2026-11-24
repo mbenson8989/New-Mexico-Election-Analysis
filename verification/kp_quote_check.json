@@ -1,0 +1,2516 @@
+{
+ "files": 67,
+ "quotes": 367,
+ "missing": 0,
+ "detail": {
+  "/workspace/nm-election/letters/ag/New_Mexico_Attorney_General_Letter.md": [
+   {
+    "quote": "The United States shall guarantee to every State in this Union a Republican Form of Government.",
+    "found_in": [
+     "U.S. Const."
+    ]
+   },
+   {
+    "quote": "Ensuring Citizenship Verification and Integrity in Federal Elections,",
+    "found_in": [
+     "EO 14399",
+     "NMDOJ EO14399 release"
+    ]
+   },
+   {
+    "quote": "the Federal Government's constitutional obligation to guarantee a republican form of Government to every State in the Union, U.S. Const. Art. IV, Sec. 4.",
+    "found_in": [
+     "EO 14399"
+    ]
+   },
+   {
+    "quote": "[t]he Federal Government has an unavoidable duty under Article II of the Constitution of the United States to enforce Federal law, which includes preventing violations of Federal criminal law and maintaining public confidence in election outcomes.",
+    "found_in": [
+     "EO 14399 (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "take Care that the Laws be faithfully executed.",
+    "found_in": [
+     "U.S. Const."
+    ]
+   },
+   {
+    "quote": "States and localities should preserve, for a 5-year period, all records and materials\u2014excluding ballots cast\u2014evidencing voter participation in any Federal election (e.g., ballot envelopes, regardless of carrier).",
+    "found_in": [
+     "EO 14399"
+    ]
+   },
+   {
+    "quote": "all persons are entitled to the greatest possible information regarding the affairs of government and the official acts of public officers and employees.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "all documents, papers, letters, books, maps, tapes, photographs, recordings and other materials, regardless of physical form or characteristics, that are used, created, received, maintained or held by or on behalf of any public body and relate to public business, whether or not the records are required by law to be created or maintained.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "not later than fifteen days after receiving a written request.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "[r]equested public records containing information that is exempt and nonexempt from disclosure shall be separated by the custodian prior to inspection, and the nonexempt information shall be made available for inspection.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "is only required to provide the electronic record in the file format in which it exists at the time of the request.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "the names and titles or positions of each person responsible for the denial.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "Paper ballots marked by voters, their digitized equivalents and records requisite to voting are exempt from third-party inspection except as otherwise provided in the Election Code until the later of sixty days following adjournment of the state or county canvassing board for that election or sixty days following any recount, contest or other judicial inquiry",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "a third-party inspection not otherwise provided for in the Election Code shall be conducted for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "as otherwise provided by law,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_4_Counties",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "twenty-two months from the date of the election for any election in which a federal office appears on the ballot.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "The county clerk shall not clear the votes recorded on the removable storage media devices until at least forty-five days after adjournment of the county or state canvassing board, whichever is later.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "capable of printing a zero-results printout prior to these tests and a results printout after the test,",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "all pre-election, election day and post-election events shall be stored, recorded and recovered in an easy-to-read printed form.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "The returns and certificates of the result of the county canvass are public documents.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "[t]he auditor shall report the results of the voting system check to the secretary of state upon completion of the voting system check and release the results to the public.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "digitized equivalents",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "a review of ballot images in place of paper ballots",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "digitized equivalent,",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting,",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "shall not be used to restrict requests for",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "stored or transmitted using information technology systems",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "information to authenticate or validate records received pursuant to a request.",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "allows the public to view, compare, and independently verify ballot images and Cast Vote Records (CVRs) from the November 4, 2025 Regular Local Election,",
+    "found_in": [
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "without submitting a formal public records request.",
+    "found_in": [
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "the greatest possible information",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "Ensuring Citizenship Verification and Integrity in Federal Elections,",
+    "found_in": [
+     "EO 14399",
+     "NMDOJ EO14399 release"
+    ]
+   },
+   {
+    "quote": "Attorney General Ra\u00fal Torrez Moves to Permanently Block President Trump's Executive Order Restricting Mail Voting, Exerting Control over Elections",
+    "found_in": [
+     "NMDOJ EO14399 release"
+    ]
+   },
+   {
+    "quote": "Clerk's Office Launches New Ballot Verification and Election Transparency Tool",
+    "found_in": [
+     "Dona Ana release"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Bernalillo_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Catron_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Chaves_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Cibola_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Colfax_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Curry_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/De_Baca_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Dona_Ana_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Eddy_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Grant_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Guadalupe_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Harding_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Hidalgo_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Lea_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Lincoln_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Los_Alamos_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Luna_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/McKinley_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Mora_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Otero_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Quay_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Rio_Arriba_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Roosevelt_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/San_Juan_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/San_Miguel_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Sandoval_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Santa_Fe_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Sierra_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Socorro_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Taos_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Torrance_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Union_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/clerk/md/Valencia_County_Clerk_Letter.md": [
+   {
+    "quote": "Unofficial Results",
+    "found_in": [
+     "SOS 2026 county page"
+    ]
+   },
+   {
+    "quote": "Statewide by County",
+    "found_in": [
+     "SOS reg Statewide_10-30-2026.pdf",
+     "SOS reg Statewide_10-31-2022.pdf"
+    ]
+   },
+   {
+    "quote": "Ballot Receipt States",
+    "found_in": [
+     "CA v Trump judgment"
+    ]
+   },
+   {
+    "quote": "public records",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_8_Elected_Officials",
+     "NMSA NMSA_Chapter_1_Elections",
+     "Dona Ana release"
+    ]
+   },
+   {
+    "quote": "regardless of physical form or characteristics,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records"
+    ]
+   },
+   {
+    "quote": "paper ballots marked by voters, their digitized equivalents and records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections (first letter case adjusted)"
+    ]
+   },
+   {
+    "quote": "for good cause shown and upon order of the district court.",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "public documents,",
+    "found_in": [
+     "NMSA NMSA_Chapter_14_Records",
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Bernalillo_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Catron_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Chaves_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Cibola_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Colfax_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Curry_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/De_Baca_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Dona_Ana_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Eddy_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Grant_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Guadalupe_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Harding_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Hidalgo_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Lea_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Lincoln_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Los_Alamos_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Luna_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/McKinley_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Mora_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Otero_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Quay_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Rio_Arriba_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Roosevelt_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/San_Juan_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/San_Miguel_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Sandoval_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Santa_Fe_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Sierra_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Socorro_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Taos_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Torrance_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Union_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ],
+  "/workspace/nm-election/letters/ipra/md/Valencia_County_IPRA_Request.md": [
+   {
+    "quote": "digitized equivalent",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   },
+   {
+    "quote": "records requisite to voting",
+    "found_in": [
+     "NMSA NMSA_Chapter_1_Elections"
+    ]
+   }
+  ]
+ }
+}

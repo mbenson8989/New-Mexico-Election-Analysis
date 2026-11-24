@@ -1,0 +1,35 @@
+{
+ "run_at": "2026-11-24T17:53:42-06:00",
+ "counties": 33,
+ "cells_per_county": 26,
+ "sort_order_identical": true,
+ "results": [
+  {
+   "label": "Pass 1 vs published table",
+   "total": 1170,
+   "matched": 1170,
+   "mismatched": 0,
+   "mismatches": [],
+   "share_version_cells": 309,
+   "share_version_matched": 309
+  },
+  {
+   "label": "Pass 2 vs published table",
+   "total": 1170,
+   "matched": 1170,
+   "mismatched": 0,
+   "mismatches": [],
+   "share_version_cells": 309,
+   "share_version_matched": 309
+  },
+  {
+   "label": "Pass 1 vs Pass 2 (cross-comparison)",
+   "total": 1170,
+   "matched": 1170,
+   "mismatched": 0,
+   "mismatches": [],
+   "share_version_cells": 309,
+   "share_version_matched": 309
+  }
+ ]
+}

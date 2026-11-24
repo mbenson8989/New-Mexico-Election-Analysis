@@ -1,0 +1,39 @@
+{
+ "wiki_cells_checked": 1418,
+ "matched": 1418,
+ "mismatched": [],
+ "reverse_math_tables_in_population_order": true,
+ "readme_vs_pass": {
+  "1": {
+   "pass_": 1,
+   "numbers_checked": 22,
+   "matched": 22,
+   "structural_tokens": 22,
+   "unchecked_numbers": 0,
+   "mismatches": []
+  },
+  "2": {
+   "pass_": 2,
+   "numbers_checked": 22,
+   "matched": 22,
+   "structural_tokens": 22,
+   "unchecked_numbers": 0,
+   "mismatches": []
+  }
+ },
+ "pdf_vs_pass": {
+  "1": {
+   "pass_": 1,
+   "numbers_checked": 644,
+   "matched": 644,
+   "mismatches": []
+  },
+  "2": {
+   "pass_": 2,
+   "numbers_checked": 644,
+   "matched": 644,
+   "mismatches": []
+  }
+ },
+ "readme_pdf_mismatches": 0
+}

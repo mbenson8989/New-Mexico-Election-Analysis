@@ -1,0 +1,26 @@
+{
+ "pdf": "/workspace/nm-election/wiki/New-Mexico-County-Data.pdf",
+ "pages": 4,
+ "data_numbers_checked": 644,
+ "data_numbers_matched": 644,
+ "nondata_tokens_checked": 64,
+ "nondata_tokens_matched": 64,
+ "total_checked": 708,
+ "total_matched": 708,
+ "unaccounted_numbers": 0,
+ "mismatches": [],
+ "fit_raw": {
+  "22": {
+   "m": "-6.67",
+   "b": "+2.92",
+   "r2": "0.017",
+   "mae": "6.47"
+  },
+  "26": {
+   "m": "-12.20",
+   "b": "+15.27",
+   "r2": "0.056",
+   "mae": "6.01"
+  }
+ }
+}
